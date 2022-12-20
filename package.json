@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/namanxjha/SuperHumans-Battle#readme",
   "dependencies": {
+    "marvel-characters": "^1.0.3",
     "superhero-name-library": "^1.2.2",
     "supervillains": "^3.1.0"
   }

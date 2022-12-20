@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body{
+    background-color: #FFD4B2;
+    /* font-family: 'Bangers', cursive; */
+    font-family: Hermes-Regular, Arial, Helvetica, sans-serif;
+
+}
+
+@font-face {
+    font-family: Hermes-Regular;
+    src: url(Hermes-Regular.otf);
+}
+
+.title{
+    font-size: 70px;
+    margin: 60px;
+    font-family: Hermes-Regular, Arial, Helvetica, sans-serif;
+}
+
+.namesContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    font-size: 45px;
+}
+
+.superhero{
+    width: 300px;
+    text-align: right;
+}
+
+.supervillain{
+    width: 300px;
+    text-align: left;
+}
+
+.vs img{
+    width: 80px;
+    margin: 0 150px;
+}
+
+.result{
+    font-size: 26px;
+    margin: 50px 0;
+    align-items: center;
+}
+
+.message{
+    display: none;
+}
+
+button{
+    margin: 10px;
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-family: 'Bangers', cursive;
+    font-size: 26px;
+}
+
