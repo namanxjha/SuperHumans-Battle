@@ -31,12 +31,12 @@ body{
     font-size: 45px;
 }
 
-.superhero{
+#superhero{
     width: 300px;
     text-align: right;
 }
 
-.supervillain{
+#supervillain{
     width: 300px;
     text-align: left;
 }
@@ -63,4 +63,3 @@ button{
     font-family: 'Bangers', cursive;
     font-size: 26px;
 }
-
